@@ -3,7 +3,9 @@
 - **Wyjebane Projekty Tylko** __**TUTAJ!**__
 - __**Chcesz Abym napisał ci kox Kod? Pamiętaj, marzenia się spełniają**__
 
-[VEAZE.PL](https://veaze.pl)
+```php
+  echo "Witaj chuju!";
+```
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />

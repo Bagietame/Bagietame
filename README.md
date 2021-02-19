@@ -1,7 +1,6 @@
 ### Oficjalny GitHub Logusia ###
 
-- **Wyjebane Projekty Tylko** __**TUTAJ!**__
-- __**Chcesz Abym napisał ci kox Kod? Pamiętaj, marzenia się spełniają**__
+- **Kontakt w sprawie partnerstwa przez disocrd: !Logus#2022
 
 ```php
   echo "Witaj chuju!";

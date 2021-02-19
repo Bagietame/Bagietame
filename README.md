@@ -9,5 +9,5 @@
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="html" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" /> 
-<img align="left" alt="css" width="26px" src="https://i.pinimg.com/originals/eb/7e/20/eb7e20e646f5b7ec9ed4f8f78a5dee8f.png" /> 
+<img align="left" alt="css" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/css-118-569410.png" /> 
 <img align="left" alt="php" width="26px" src="https://www.entropywins.wtf/blog/wp-content/uploads/2018/10/php-1.png" /> <br />

@@ -2,7 +2,7 @@
 
 - **Kontakt w sprawie partnerstwa przez:** 
 - 
-- <img width="20px" align="left" src="https://cdn.iconscout.com/icon/free/png-256/discord-2752210-2285027.png">!Logus#2022
+<img width="20px" align="left" src="https://cdn.iconscout.com/icon/free/png-256/discord-2752210-2285027.png">!Logus#2022
 
 ```php
   echo "Witaj chuju!";

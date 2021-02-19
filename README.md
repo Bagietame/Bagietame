@@ -1,6 +1,6 @@
 ### Oficjalny GitHub Logusia ###
 
-- **Kontakt w sprawie partnerstwa przez <img width="20px" src="https://blog.logomyway.com/wp-content/uploads/2020/12/discord-mascot.png"> Discord: !Logus#2022
+- **Kontakt w sprawie partnerstwa przez <img style="padding-top: 5px;" width="20px" src="https://blog.logomyway.com/wp-content/uploads/2020/12/discord-mascot.png"> Discord: !Logus#2022
 
 ```php
   echo "Witaj chuju!";

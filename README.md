@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/FrdlTKu.png">
+
 ### Oficjalny GitHub Logusia ###
 
 - **Kontakt w sprawie partnerstwa przez Discord: !Logus#2022**

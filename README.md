@@ -2,7 +2,7 @@
 
 ### Oficjalny GitHub Logusia ###
 
-- **Kontakt w sprawie partnerstwa przez Discord: !Logus#2022**
+- **Kontakt w sprawie partnerstwa przez Discord: najs ogarniasz#0002**
 
 ```php
   echo "Witaj chuju!";

@@ -2,7 +2,7 @@
 
 ### Oficjalny GitHub Logusia ###
 
-- **Kontakt w sprawie partnerstwa przez Discord: og from grovestreet#6666**
+- **Kontakt w sprawie partnerstwa przez Discord: og from grovestreet#9499**
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />

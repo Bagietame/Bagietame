@@ -1,14 +1,18 @@
-<img src="https://i.imgur.com/TzWoAsC.png">
+<img src="https://cdn.discordapp.com/attachments/1137564135308140585/1145822669741236234/optibaner.gif">
 
-### Oficjalny GitHub Logusia ###
+### Github account of Bagieta ###
 
-- **Kontakt w sprawie partnerstwa przez Discord: og from grovestreet#9499**
+- **Projects:**
+> https://discord.gg/bagieta <br />
+> https://discord.gg/otherplanet
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
-<img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
-<img align="left" alt="mysql" width="26px" src="http://pngimg.com/uploads/mysql/mysql_PNG23.png" />
-<img align="left"alt="css"width="26px"src="https://camo.githubusercontent.com/b059b3150634ebbb37fac310309b3c4a841b0ecdabcc7409c0067397f8a3931b/687474703a2f2f696f31332d686967682d6470692e61707073706f742e636f6d2f696d616765732f435353335f4c6f676f2e737667" /> 
+<img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
+<img align="left" alt="react" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" />
+<img align="left" alt="vue" width="26px" src="https://vuejs.org/images/logo.png" />
 <img align="left" alt="html" width="26px" src="https://cdn.345tool.com/public/logos/html-formatter-logo.png" /> 
+<img align="left" alt="css" width="23px" src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" /> 
 <img align="left" alt="php" width="33px" src="https://www.giera.net/assets/img/phplogo.png" />
-<img align="left" alt="lua" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" /> <br /> 
+<img align="left" alt="lua" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" /> 
+<img align="left" alt="mysql" width="26px" src="http://pngimg.com/uploads/mysql/mysql_PNG23.png" />
+<br /> 

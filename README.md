@@ -8,8 +8,6 @@
 
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
-<img align="left" alt="react" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" />
-<img align="left" alt="vue" width="26px" src="https://vuejs.org/images/logo.png" />
 <img align="left" alt="html" width="26px" src="https://cdn.345tool.com/public/logos/html-formatter-logo.png" /> 
 <img align="left" alt="css" width="23px" src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" /> 
 <img align="left" alt="php" width="33px" src="https://www.giera.net/assets/img/phplogo.png" />
